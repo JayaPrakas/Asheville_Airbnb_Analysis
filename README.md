@@ -1,5 +1,7 @@
 # Asheville Airbnb Analysis
 
+Blog post corresponding to this notebook can be read here [Asheville Airbnb](https://jayaprakashks.medium.com/asheville-airbnb-analysis-62116bf8f005)
+
 ## Table of contents
 
 - [Installation](#installation)
