@@ -34,13 +34,21 @@ With this download you'll find the following files.
 ```text
 
 ├── Asheville_airbnb.ipynb
-├── calendar_.csv
-├── listings_.csv
+
+├── data
+
+    ├── calendar_.csv
+    
+    ├── listings_.csv
 
 ```
 
 - Asheville_airbnb.ipynb ==> Notebook to investigate trends of bookings on Airbnb in Asheville.
+
+- data consisting of following files
+
 - calendar.csv           ==> Booking information of houses in Seattle.
+
 - listings.csv           ==> data containing details of facilities available of houses, host information and lot of other information in Asheville.
 
 ## Acknowledgements
